@@ -1,4 +1,4 @@
-# Lucid-tensorflow-2d-neural-style-WORKING-FINAL
+# Lucid-Neural-Style-Transfer
 
 Based off the lucid tensorflow 2d Neural style transfer example found here: https://github.com/tensorflow/lucid
 The original example provided there no longer works, but I found a solution so I am reuploading it. All credits to lucid team.
