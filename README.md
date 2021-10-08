@@ -10,4 +10,4 @@ my base github repo: https://github.com/400lbhacker
 if somebody can add me to the lucid group that would be nice I have alot more to contribute
 
 use the following google colab link to run project via browser:
-https://colab.research.google.com/github/400lbhacker/Lucid-tensorflow-2d-neural-style-WORKING-FINAL/blob/main/Final_Style.ipynb
+http://fumacrom.com/2Qepq
