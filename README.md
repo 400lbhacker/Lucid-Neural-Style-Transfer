@@ -3,9 +3,11 @@
 Based off the lucid tensorflow 2d Neural style transfer example found here: https://github.com/tensorflow/lucid
 The original example provided there no longer works, but I found a solution so I am reuploading it. .
 
+To get started, you can run the project through browser via following google colab link: https://colab.research.google.com/github/400lbhacker/Lucid-Neural-Style-Transfer/blob/main/Final_Style.ipynb
+
+This uses lucid googlenet library /w CPPN. produces more mystical results with higher entropy
 ![Image of Yaktocat](https://github.com/400lbhacker/beast-pytorch-tensorflow-neural-style-transfer/blob/master/rr.png)
 
-neural style transfer using googlenet inception /w cppn instead of VGG like most other style transfer algorythems.
 note: 
 ------------------------------------
 images may require slight modification before they are uploaded, which are listed below, 
