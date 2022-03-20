@@ -8,7 +8,7 @@ donations: https://paypal.me/JosephE741
 I am struggling
 
 Based off the lucid tensorflow 2d Neural style transfer example found here: https://github.com/tensorflow/lucid
-The original example provided there no longer works, but I found a solution so I am reuploading it. . EDIT: A NEW FATAL ERROR RECENTLY BEGIN OCCOURING: NotImplementedError: Cannot convert a symbolic Tensor (2nd_target:0) to a numpy array 
+The original example provided there no longer works, but I found a solution so I am reuploading it. (this is the 3rd fatal patch/repair ive made to this project) EDIT: A NEW FATAL ERROR RECENTLY BEGIN OCCOURING: NotImplementedError: Cannot convert a symbolic Tensor (2nd_target:0) to a numpy array 
 THIS IS NOW FIXXED AND THE CODE IS 100% WORKING AGAIN
 
 This uses lucid googlenet library /w CPPN. produces more mystical results with higher entropy
