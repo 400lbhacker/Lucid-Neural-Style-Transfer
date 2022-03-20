@@ -1,7 +1,18 @@
 # Lucid-Neural-Style-Transfer
 
+donations: paypal.me/JosephE741
+
+github:		https://github.com/400lbhacker 
+
+facebook:	https://www.facebook.com/profile.php?id=100077278946585
+
+gmail: josepherickson135@gmail.com
+
 Based off the lucid tensorflow 2d Neural style transfer example found here: https://github.com/tensorflow/lucid
-The original example provided there no longer works, but I found a solution so I am reuploading it. .
+The original example provided there no longer works, but I found a solution so I am reuploading it. . EDIT: A NEW FATAL ERROR RECENTLY BEGIN OCCOURING: NotImplementedError: Cannot convert a symbolic Tensor (2nd_target:0) to a numpy array 
+THIS IS NOW FIXXED AND THE CODE IS 100% WORKING AGAIN
+
+COLAB: https://colab.research.google.com/github/400lbhacker/Lucid-Neural-Style-Transfer/blob/main/Final_Style.ipynb
 
 
 This uses lucid googlenet library /w CPPN. produces more mystical results with higher entropy
@@ -12,14 +23,11 @@ note:
 images may require slight modification before they are uploaded, which are listed below, 
 Using mspaint the modifications needed take less than 20 seconds total. (for both images)
 
-1) - your initial image must be named the following before you upload: content.jpg
+1) - your initial image must be named the following before you upload: 1.jpg
 
-2) - your style image must be named the following before you upload: style.jpg 
+2) - your style image must be named the following before you upload: 2.jpg 
 
-3) - initial image and style image must both be the same size! if your content photo is 400x800 in size, 
-than you must also resize your desired style image to also be 400x800 in size before they are both uploaded
-
-4) - both images must not have any extra layers, (ie transparency) so this is why I have jpg enforced now, 
+3) - both images must not have any extra layers, (ie transparency) so this is why I have jpg enforced now, 
 png are supported however.
 ------------------------------------
 
@@ -53,11 +61,8 @@ changes/improvements/features:
 for more of my projects or to add me on social media:
 -----------------------------------------------
 
-github:		https://github.com/400lbhacker 
 
-facebook:	https://www.facebook.com/profile.php?id=100071896345565
 
-gmail: josepherickson135@gmail.com
 
 
 
