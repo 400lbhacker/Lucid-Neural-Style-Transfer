@@ -4,8 +4,7 @@ github:		https://github.com/400lbhacker
 facebook:	https://www.facebook.com/profile.php?id=100077278946585
 gmail: josepherickson135@gmail.com
 
-donations: https://paypal.me/JosephE741
-I am struggling
+
 
 Based off the lucid tensorflow 2d Neural style transfer example found here: https://github.com/tensorflow/lucid
 The original example provided there no longer works, but I found a solution so I am reuploading it. (this is the 3rd fatal patch/repair ive made to this project) EDIT: A NEW FATAL ERROR RECENTLY BEGIN OCCOURING: NotImplementedError: Cannot convert a symbolic Tensor (2nd_target:0) to a numpy array 
@@ -16,6 +15,9 @@ This uses lucid googlenet library /w CPPN. produces more mystical results with h
 
 TRY ONLINE NOW: 
 COLAB: https://colab.research.google.com/github/400lbhacker/Lucid-Neural-Style-Transfer/blob/main/Final_Style.ipynb
+
+donations: https://paypal.me/JosephE741
+I am struggling, but I will always try to keep old projects alive 
 
 
 
